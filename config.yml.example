@@ -1,0 +1,8 @@
+blocked_server: []
+token: 
+token_debug:
+debug: True
+guilds: []
+bot:
+  prefix: /ice 
+  prefix_debug: /icdev 
