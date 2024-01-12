@@ -1,3 +1,5 @@
+> [!IMPORTANT]
+> このコードは保守されなくなりました。後継の[Selene](https://github.com/selene-discord-dev/Selene)をご利用ください。
 # IceCube
 [![sonyakun - IceCube](https://img.shields.io/static/v1?label=sonyakun&message=IceCube&color=blue&logo=github&style=flat-square)](https://github.com/sonyakun/IceCube "Go to GitHub repo")
 [![GitHub release](https://img.shields.io/github/release/sonyakun/IceCube?include_prereleases=&sort=semver&color=blue&style=flat-square)](https://github.com/sonyakun/IceCube/releases/)
